@@ -1,0 +1,49 @@
+{
+  "recency_accuracy": 0.738,
+  "distractor_aware_accuracy": 1.0,
+  "tracking_gain_pct": 26.2,
+  "timeline": [
+    {
+      "frame": 0,
+      "target": 8,
+      "distractor": 50,
+      "aware": 7.9
+    },
+    {
+      "frame": 6,
+      "target": 14,
+      "distractor": 44,
+      "aware": 13.9
+    },
+    {
+      "frame": 12,
+      "target": 20,
+      "distractor": 38,
+      "aware": 19.9
+    },
+    {
+      "frame": 18,
+      "target": 26,
+      "distractor": 32,
+      "aware": 26.1
+    },
+    {
+      "frame": 24,
+      "target": 34,
+      "distractor": 32,
+      "aware": 34.2
+    },
+    {
+      "frame": 30,
+      "target": 40,
+      "distractor": 38,
+      "aware": 40.2
+    },
+    {
+      "frame": 36,
+      "target": 46,
+      "distractor": 44,
+      "aware": 46.2
+    }
+  ]
+}
